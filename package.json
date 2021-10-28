@@ -1,0 +1,25 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varopn/play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varopn/play/issues"
+  },
+  "homepage": "https://github.com/varopn/play#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.16.2"
+  },
+  "dependencies": {
+    "playwright": "^1.16.2"
+  }
+}
